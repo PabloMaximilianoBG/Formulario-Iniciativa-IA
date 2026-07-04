@@ -46,7 +46,7 @@ El sistema permite a los colaboradores registrar iniciativas de innovación tecn
 - Validación de todos los campos obligatorios antes del envío.
 - No permite guardar registros con información incompleta.
 
-## 📄 Documentación
+## Visualización
 
 La visualización del sistema se encuentra disponible en el siguiente archivo:
 
