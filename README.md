@@ -50,5 +50,5 @@ El sistema permite a los colaboradores registrar iniciativas de innovación tecn
 
 La visualización del sistema se encuentra disponible en el siguiente archivo:
 
-- **Iniciativa IA_PB.pdf**
+- **Formulario Iniciativa IA_PB.pdf**
 
