@@ -41,7 +41,7 @@ El sistema permite a los colaboradores registrar iniciativas de innovación tecn
 - No permite registrar más de una iniciativa por responsable.
 - Si el responsable ya posee un registro, se muestra el siguiente mensaje:
 
-> **"Ha alcanzado el límite, ya se envió un registro con el nombre de responsable. Ante cualquier consulta, puede contactar a Rodrigo Villalobos, Benito Serrano o Sebastián Carreño."**
+> **"Ha alcanzado el límite, ya se envió un registro con el nombre de responsable."**
 
 - Validación de todos los campos obligatorios antes del envío.
 - No permite guardar registros con información incompleta.
